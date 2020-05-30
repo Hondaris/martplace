@@ -8,6 +8,10 @@ html {
 	box-sizing: inherit;
 }
 
+* {
+  outline: 0 !important;
+}
+
 a {
 	display: inline-block;
 	text-decoration: none;
