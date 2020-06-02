@@ -476,6 +476,9 @@
 
 .product-item {
 	width: 32%;
+	&--release {
+		margin-bottom: 31px;
+	}
 	&__img {
 		width: 100%;
 		img {
